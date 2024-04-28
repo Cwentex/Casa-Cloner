@@ -12,6 +12,8 @@ if you want to know where this came from? it came from https://discord.gg/fankis
 
 the owner is an absolute 🤡 bro has never heard of nuitka LOL
 
+Reason: basically sold it for £5 as an exe! but credit to him for not putting a big fat logger in it haha!
+that's it!!!
 GG's
 
 :3
@@ -20,5 +22,5 @@ GG's
 PS: funny little video of me decompiling it and hacking his shitty bytecode obfuscation!
 
 
-Sarah~ ❤️
+Like you lots Sarah~ ❤️
 
